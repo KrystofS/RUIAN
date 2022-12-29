@@ -1,0 +1,43 @@
+name: Build and test
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  Test:
+    runs-on: windows-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup .NET SDKs
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: |
+            3.1.x
+            6.0.x
+            7.0.x
+
+      - name: Navigate to Workspace
+        run: cd $GITHUB_WORKSPACE
+
+      - name: Restore packages
+        run: dotnet restore RUIAN.sln
+
+      - name: Build solution
+        run: dotnet build
+
+      - name: Test Core 3.1
+        run: dotnet test --nologo --no-build -f netcoreapp3.1
+
+      - name: Test Framework 4.8
+        run: dotnet test --nologo --no-build -f net48
+
+      - name: Test .NET 6
+        run: dotnet test --nologo --no-build -f net60
+
+      - name: Test .NET 7
+        run: dotnet test --nologo --no-build -f net70
