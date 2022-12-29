@@ -1,0 +1,7 @@
+- name: Home
+  href: index.md
+- name: API documentation
+  href: api/
+  homepage: api/index.md
+- name: GitHub
+  href: https://github.com/KrystofS/RUIAN
