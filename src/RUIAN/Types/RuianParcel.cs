@@ -2,6 +2,9 @@
 
 namespace RUIAN.Types
 {
+    /// <summary>
+    /// This class corresponds to parcel representation in the response from RUIAN API.
+    /// </summary>
     public class RuianParcel
     {
         [JsonPropertyName("type")]

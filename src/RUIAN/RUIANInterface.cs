@@ -9,6 +9,9 @@ using System.Text.Json;
 
 namespace RUIAN
 {
+    /// <summary>
+    /// Static class for querying RUIAN REST API.
+    /// </summary>
     public static class RUIANInterface
     {
         private static readonly UrlEncoder encoder = UrlEncoder.Create();

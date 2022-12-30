@@ -1,7 +1,10 @@
 ﻿namespace RUIAN.Types
 {
-
-    public enum RuianTypes
+    /// <summary>
+    /// Use types. Numbering corresponds to
+    /// https://cuzk.cz/Katastr-nemovitosti/Poskytovani-udaju-z-KN/Ciselniky-ISKN/Ciselniky-k-nemovitosti.aspx
+    /// </summary>
+    public enum UseTypes
     {
         Nespecifikovano = 0,
         Sklenik_Pareniste = 1,

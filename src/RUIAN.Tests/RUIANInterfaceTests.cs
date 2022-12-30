@@ -8,6 +8,9 @@ using Xunit;
 
 namespace RUIAN.Tests
 {
+    /// <summary>
+    /// Test covering basic RUIAN interface functionality.
+    /// </summary>
     public class RUIANInterfaceTests
     {
         private static string expectedParcelsText = File.ReadAllText("./Resources/query_result.txt");
