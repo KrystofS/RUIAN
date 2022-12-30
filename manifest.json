@@ -1,0 +1,281 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/a/RUIAN/RUIAN/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RUIAN.QueryBuidlers.IRUIANQueryBuilder-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RUIAN.QueryBuidlers.IRUIANQueryBuilder-1.html",
+          "hash": "OSRYGB+kQwy8/u+bDAcD/IiiZfLFDuiRNgOcpsSFmLc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RUIAN.QueryBuidlers.SimpleRUIANQueryBuider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RUIAN.QueryBuidlers.SimpleRUIANQueryBuider.html",
+          "hash": "w7QfebCOJoEiCAFtSuzdvelN0XFEs8QqzypiVbhv7E8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RUIAN.QueryBuidlers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RUIAN.QueryBuidlers.html",
+          "hash": "JqOF0SSs7oZU1owM1cg2OyA+vLViOTXxGdCJGhm79oY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RUIAN.RUIANInterface.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RUIAN.RUIANInterface.html",
+          "hash": "uc/P7tY82sjDloUqs3BuqjFlyoZ4jtmNb7DFbKtr6yw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RUIAN.Tests.RUIANInterfaceTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RUIAN.Tests.RUIANInterfaceTests.html",
+          "hash": "34UCcI/ADelAio+dedNQdtNzmYlOjV+N1FXDTQ9RPQo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RUIAN.Tests.SimpleRUIANQueryBuiderTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RUIAN.Tests.SimpleRUIANQueryBuiderTests.html",
+          "hash": "a9VwCDSAKfhvG12Jh3ctoRJ0hsPZZ0aisTfbxhuc/hg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RUIAN.Tests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RUIAN.Tests.html",
+          "hash": "otoGxtMl4pvs+OoDpi0Aan0bZDWEGoEPZKJnhIpgXeI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RUIAN.Types.NumberingType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RUIAN.Types.NumberingType.html",
+          "hash": "3exrc4uqHPwNb7FRRczYfoec9ZnTJNNwPe9qSlUsIB8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RUIAN.Types.RuianParcel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RUIAN.Types.RuianParcel.html",
+          "hash": "PudTWCiuQ2YUSo9bmYKi/xhmDMASSkYgDX9HUFxRuDY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RUIAN.Types.RuianParcelProperties.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RUIAN.Types.RuianParcelProperties.html",
+          "hash": "QhnScNinfTfRlmnyKnnAZO/rUfuaVJ2Nt/ONpGyjHoI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RUIAN.Types.RuianParcelResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RUIAN.Types.RuianParcelResponse.html",
+          "hash": "DjpVhxIMr6E06Bs3t2WD0fgKiL/qXy/1zJphHnpZLOU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RUIAN.Types.UseTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RUIAN.Types.UseTypes.html",
+          "hash": "pmx79qslSemdvEcXnsO9p2ix8zLUTCq2u9bTmZnRmxA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RUIAN.Types.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RUIAN.Types.html",
+          "hash": "NcS8Sz2jh2xdQ5x8llRD/lZjZEmdkiQ5U98A3yXBApU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/RUIAN.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/RUIAN.html",
+          "hash": "sajGsTPYYcHjuTqewvjVEDLqgrIlzEVNAyeJfGSaMNM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "I9K7jEUcIeeojbe3W/dqVYinggydwYSbSqnVhQpK3j0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "m/c5RUofWc29PUfRVmCwklobTDpQtFw2ANodeFBWMUo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "W+l1ViYMgpHfmsC+06HyfZCtBn0G48jZEJYO0/4gnfo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "aYPg2xTKjYVRXJYaUiRNLF+NH3r8C9ar92TcNRcWpWY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 2,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 14,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
