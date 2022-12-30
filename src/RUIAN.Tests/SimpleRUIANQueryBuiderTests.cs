@@ -3,6 +3,9 @@ using Xunit;
 
 namespace RUIAN.Tests
 {
+    /// <summary>
+    /// Test covering basic query builder functionality.
+    /// </summary>
     public class SimpleRUIANQueryBuiderTests
     {
         private SimpleRUIANQueryBuider queryBuilder = new SimpleRUIANQueryBuider();

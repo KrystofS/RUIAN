@@ -2,6 +2,9 @@
 
 namespace RUIAN.Types
 {
+    /// <summary>
+    /// This class corresponds to properties of the response from RUIAN API.
+    /// </summary>
     public class RuianParcelProperties
     {
         [JsonPropertyName("objectid")]
@@ -23,7 +26,7 @@ namespace RUIAN.Types
         public int VymeraParcely { get; set; }
 
         [JsonPropertyName("zpusobyvyuzitipozemku")]
-        public RuianTypes? ZpusobVvyuzitiPozemku { get; set; } = RuianTypes.Nespecifikovano;
+        public UseTypes? ZpusobVvyuzitiPozemku { get; set; } = UseTypes.Nespecifikovano;
 
         [JsonPropertyName("druhcislovanikod")]
         public NumberingType? DruhCislovaniKod { get; set; } = NumberingType.Nespecifikovana;
