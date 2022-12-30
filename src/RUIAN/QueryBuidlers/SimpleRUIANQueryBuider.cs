@@ -1,11 +1,10 @@
-﻿using RUIAN.QueryBuidlers;
-using RUIAN.Types;
+﻿using RUIAN.Types;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace RUIAN
+namespace RUIAN.QueryBuidlers
 {
     /// <summary>
     /// Creates query selecting items that have region number within the set of

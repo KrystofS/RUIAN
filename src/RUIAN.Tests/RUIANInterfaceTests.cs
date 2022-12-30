@@ -1,4 +1,5 @@
 ﻿using FluentAssertions;
+using RUIAN.QueryBuidlers;
 using RUIAN.Types;
 using System.Collections.Generic;
 using System.IO;

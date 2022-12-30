@@ -1,4 +1,5 @@
-﻿using RUIAN.Types;
+﻿using RUIAN.QueryBuidlers;
+using RUIAN.Types;
 using Xunit;
 
 namespace RUIAN.Tests
